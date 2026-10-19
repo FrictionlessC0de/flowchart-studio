@@ -1,0 +1,24 @@
+{
+  "bundler": "vite",
+  "projectName": "flowchart-atm",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": false,
+  "tailwind": true,
+  "projectPreset": "default",
+  "routerOnly": false,
+  "addOnOptions": {},
+  "git": true,
+  "install": true,
+  "intent": true,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "vercel",
+    "compiler",
+    "form",
+    "shadcn",
+    "tanstack-query"
+  ]
+}
