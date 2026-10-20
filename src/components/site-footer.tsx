@@ -18,7 +18,7 @@ export function SiteFooter() {
 
         <div>
           <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted-foreground">Instructor</p>
-          <p className="mt-1 text-base font-semibold text-foreground sm:text-lg">Abenezer Niguse</p>
+          <p className="mt-1 text-base font-semibold text-foreground sm:text-lg">A.N</p>
           <p className="mt-1 text-sm text-muted-foreground">Guiding the next generation of problem solvers.</p>
         </div>
       </div>
